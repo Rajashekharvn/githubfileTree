@@ -1,0 +1,5 @@
+/* Tailwind v4 custom colors */
+@theme {
+  --color-primary: #4f46e5;
+  --color-darkBg: #0f172a;
+}
